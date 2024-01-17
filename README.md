@@ -12,7 +12,8 @@ Já aprendir os conceitos básicos de:⬇️
 
 
 <h2>🌱 Atualmente estou aprendendo...:⬇️<h2> <br><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<br>
+<br> 
+<br>	
     <p alin="center"  ><b>
     Paralelo a isso estou criando um cardápio online via QR Code acesso mobile para lanchonetes e restaurantes da minha cidade. Como aqui é uma cidade pequena isso seria uma grande novidade! 
 
@@ -28,9 +29,9 @@ Já aprendir os conceitos básicos de:⬇️
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-<[![Luis Rodrigo ´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigonovato10)](https://github.com/anuraghazra/github-readme-stats)/>
+[![Luis Rodrigo ´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigonovato10)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigonovato10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
