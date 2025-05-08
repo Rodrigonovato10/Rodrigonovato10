@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>Eu sou o Luis Rodrigo, tenho 27 anos e sou programador iniciante.<h2/>
+<h2>Eu sou o Luis Rodrigo, tenho 28 anos e sou programador iniciante.<h2/>
 <br>
 Já aprendir os conceitos básicos de:⬇️ 
 <br>
